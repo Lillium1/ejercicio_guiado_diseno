@@ -15,6 +15,7 @@
 .row:after{
     clear:both;
 }
+
 [class*="col-"]{
     min-height:7px;
     padding:12px;
@@ -68,3 +69,7 @@
     /*(12/12) x 100 */
     width:100%;
 }
+
+
+
+
